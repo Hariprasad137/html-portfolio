@@ -1,3 +1,10 @@
+
+*{
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
 footer {
     display: flex;
     justify-content: center;
